@@ -4,7 +4,7 @@
 
 以下，記述事項の説明．
 
-* 改変対象OSS:Typst
+* 改変対象OSS:[Typst](https://github.com/typst/typst)
   + Rustで書かれたモダンな組版エンジン
   + あとなんかあったら書く
 * 改変内容を説明する．
